@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\bin\Debug\proyecto3.exe.config
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\bin\Debug\proyecto3.exe
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\bin\Debug\proyecto3.pdb
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.Form1.resources
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.Properties.Resources.resources
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.GenerateResource.cache
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.exe
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.pdb
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.MainMenu.resources
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.PilaForm.resources
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.ColaForm.resources
+C:\Users\andre\Documents\Visual Studio 2019\Projects\proyecto3\proyecto3\obj\Debug\proyecto3.ListaForm.resources
